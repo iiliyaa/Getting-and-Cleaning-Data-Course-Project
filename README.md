@@ -48,4 +48,4 @@ Original dataset source: [UCI Machine Learning Repository](http://archive.ics.uc
 
 ### Code Book
 
-Please refer to `CodeBook.md` for a comprehensive description of the dataset, including details about the data source, transformations, and variable descriptions.
+Please refer to `CodeBook.md` for a thorough description of the dataset, including details about the data source, transformations, and variable descriptions.
