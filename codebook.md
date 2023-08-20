@@ -39,7 +39,6 @@ The `run_analysis.R` script processes data from the Human Activity Recognition U
         - "Mag" replaced with "Magnitude".
         - Prefix "f" replaced with "Frequency".
         - Prefix "t" replaced with "Time".
-        - ... [other transformations from your code]
 
 7. **Summary Dataset Creation**:
     - `finalTidyData`: Derived from `tidyData`, summarizing by taking the mean of each variable, grouped by activity and subject. 
